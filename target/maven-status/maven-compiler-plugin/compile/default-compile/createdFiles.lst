@@ -1,0 +1,6 @@
+com\maks\storageplugin\ConfigManager.class
+com\maks\storageplugin\StorageGUI.class
+com\maks\storageplugin\StorageCommand.class
+com\maks\storageplugin\Main.class
+com\maks\storageplugin\DatabaseManager.class
+com\maks\storageplugin\PlayerStorage.class
