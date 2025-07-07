@@ -25,6 +25,7 @@ public class Main extends JavaPlugin {
 
         // Register listeners
         getServer().getPluginManager().registerEvents(new StorageGUI(), this);
+        getServer().getPluginManager().registerEvents(new StoragePageListener(this), this);
     }
 
     @Override
